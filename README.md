@@ -1,1 +1,1 @@
-Dil İşleme Ödevi
+Tübitak doğal dil işleme dersi-dönem ödevi
